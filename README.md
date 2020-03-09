@@ -1,0 +1,1 @@
+Click button to generate a random quote.
